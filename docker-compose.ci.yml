@@ -1,0 +1,8 @@
+version: "3.9"
+
+services:
+  backend:
+    image: "wsui-backend:latest"
+
+  frontend:
+    image: "wsui-frontend:latest"
